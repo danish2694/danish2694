@@ -1,18 +1,6 @@
-### Hi there 👋
-
-<!--
-**danish2694/danish2694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2> Hi, I'm Mohammad Danish! 👨‍💻 </h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Python Developer at <a href="https://www.arorat.com/">E-GAIN </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
 <br>
 
@@ -29,3 +17,57 @@ Here are some ideas to get you started:
     <img align="left" alt="Mohammad Danish | Twitter" width="26px" src="https://github.com/danish2694/danish2694/blob/master/Assets/Twitter.svg" />
   </a>
 <br>
+
+
+### A little more about me...  
+
+👨‍🎓 Major in Computer Science (Class of 2018) 
+
+```js
+export default () => ({
+    pronouns: "He" | "Him",
+    working_since: "2018",
+    working_on: "python | django",
+    askMeAbout: [
+      "python", "tech", "memes",
+      "webdev", "setups"
+    ],
+    technologies: {
+        web_development:{
+            framework: ["django", "flask"],
+            databases: ["mysql","sqlite","mongoDB","postgres","redis"],
+            web_servers: ["heroku", "pythonanywhere"],
+            wsgi_server: ["gunicorn"],
+        },
+      machineLearning: ["Linear Regression", "Logistic Regression", 
+      "Support Vector Machine","Decision Tree",
+      "Random Forest","KMeans","clustering", "k-nearest neighbors"],
+      deeplearning: ["keras","tensorflow"],
+      dataScience: ["pandas","numpy","matplotlib","seaborn"],
+      },
+    tools: [
+      "Sublime Text", "PyCharm",
+      "Visual Studio", "Atom",
+    ]
+  });
+```
+
+---
+
+⭐️ From [danish2694](https://github.com/danish2694)
+<!--### Hi there 👋
+
+
+**danish2694/danish2694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
