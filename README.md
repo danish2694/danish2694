@@ -1,6 +1,6 @@
 <h2> Hi, I'm Mohammad Danish! 👨‍💻 </h2>
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="230">
-<p><em>Python Developer at <a href="https://www.arorat.com/">E-GAIN </a><img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="30"></br></em></p>
+<p><em>Python Developer at <a href="https://www.arorat.com/">E-GAIN </a><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40"></br></em></p>
 
 <br>
 
